@@ -503,8 +503,9 @@ input::placeholder {
   }
 
   .content-area {
-    width: 100%;
+    width: 80%;
     justify-content: center;
+    margin-left: 60px;
   }
 
   .spotify-logo > img {
@@ -543,6 +544,7 @@ input::placeholder {
     font-weight: 900;
     color: white;
     font-size: 20px;
+    /* width:  20vw; */
   }
   .show-head > h3 {
     font-weight: 700;
